@@ -1,0 +1,28 @@
+name: toothfeather
+favicon: null
+layout_spectrum: 0.030717646004632115
+typography_spectrum: 0.3759142926428467
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8341770805418491
+  lightness: 0.8471768072340637
+  saturation: 0.5328710554167628
+  rhythmicContrast: 0.3227846217341721
+purpose: []
